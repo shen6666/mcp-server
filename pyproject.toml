@@ -1,0 +1,8 @@
+[project]
+name = "idm-mcp"
+version = "0.1.0"
+description = "数据管理平台的 MCP server，含角色权限与语义化错误"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.30.0",
+]
